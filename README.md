@@ -81,8 +81,4 @@ Freezing the wrong app, especially a system app, can cause instability or stop y
 
 ## Author
 
-Made by **[@SuperChrisss](https://github.com/SuperChrisss)**
-
-## License
-
-Add a license of your choice (MIT is a common pick for small apps like this).
+Made by **[@chrisegoist](https://github.com/chrisegoist)**
